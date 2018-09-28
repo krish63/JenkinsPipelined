@@ -12,4 +12,11 @@
   "dependencies": {
     "selenium-webdriver": "^3.6.0"
   }
+  "keywords": [
+"node"
+],
+  "repository": {
+"type": "git",
+"url": "git+https://github.com/krish63/JenkinsPipelined.git"
+}
 }
