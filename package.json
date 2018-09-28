@@ -7,7 +7,7 @@
     "jshint": "^2.6.0"
   },
   "scripts": {
-    "test": "index.html"
+    "test": "npm TestHelloWorld.js"
   },
   "dependencies": {
     "selenium-webdriver": "^3.6.0"
