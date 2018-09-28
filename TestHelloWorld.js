@@ -8,6 +8,6 @@ var a = driver.findElement(By.id("finder")).getText();
 if(a=="Hello World")
 console.log("SUCCESS!!");
 else
-  console.log("Body : "a);
+  console.log("Unsuccesfull Body : "a);
 
 //driver.quit();
