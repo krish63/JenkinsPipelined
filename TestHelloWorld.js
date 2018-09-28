@@ -7,4 +7,7 @@ driver.get('https://fc706921.ngrok.io');
 var a = driver.findElement(By.id("finder")).getText();
 if(a=="Hello World")
 console.log("SUCCESS!!");
+else
+  console.log("Body : "a);
+
 //driver.quit();
